@@ -15,3 +15,4 @@
 * *git diff* - увидеть разницу между текущим файлом и закоммиченным
 * *git branch* - выводит список веток в репозитории
 * *git branch branch_name* - создание новой ветки 
+* *git git branch -dbranch_name_to_delete* - удаление ветки
