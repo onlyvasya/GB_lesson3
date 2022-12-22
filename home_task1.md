@@ -17,4 +17,4 @@
 * *git branch branch_name* - создание новой ветки, где branch_name - имя новой ветки
 * *git branch -d branch_name_to_delete* - команда для удаления ветки
 * *git log --graph* - выводит список коммитов в виде красивого графа/дерева
-последний конфликт
+*  *git merge branch_name* - сливает ветку branch_name с текущей веткой
