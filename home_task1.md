@@ -18,3 +18,5 @@
 * *git branch -d branch_name_to_delete* - команда для удаления ветки
 * *git log --graph* - выводит список коммитов в виде красивого графа/дерева
 *  *git merge branch_name* - сливает ветку branch_name с веткой в которой вы находитесь в данный момент
+*  привет с github
+*  
